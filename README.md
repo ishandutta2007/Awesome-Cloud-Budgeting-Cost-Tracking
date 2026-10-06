@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Budgeting-Cost-Tracking"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Budgeting-Cost-Tracking?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Budgeting-Cost-Tracking"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Budgeting-Cost-Tracking?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Budgeting-Cost-Tracking/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Budgeting-Cost-Tracking?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Budgeting-Cost-Tracking/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Budgeting-Cost-Tracking?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -62,7 +62,7 @@ The global **Cloud Financial Management (FinOps) & Cloud Cost Management market 
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Infracost](https://github.com/infracost/infracost)** [![Stars](https://img.shields.io/github/stars/infracost/infracost?style=social&color=white)](https://github.com/infracost/infracost/stargazers)  
   **Shift-left cloud cost estimates for Terraform in pull requests**, Apache-2.0 licensed. Shows exact cost impact of infrastructure code changes before deployment across AWS, Azure, GCP, and 1,000+ resources. 💰
@@ -105,7 +105,7 @@ Contributions are welcome! Follow these steps to submit new cloud budgeting plat
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars Count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
